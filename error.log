@@ -1,0 +1,348 @@
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+WARNING: No match found for input: hj
+WARNING: No match found for input: lolz
+WARNING: No match found for input: kali
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+WARNING: No match found for input: okie
+WARNING: No match found for input: okie
+WARNING: No match found for input: okie
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+WARNING: No match found for input: uu
+WARNING: No match found for input: u
+WARNING: No match found for input: u
+WARNING: No match found for input: u
+WARNING: No match found for input: u
+WARNING: No match found for input: u
+WARNING: No match found for input: u
+WARNING: No match found for input: u
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt
+PARSE ERROR: Unexpected <pattern> tag (line 8, column 2)
+PARSE ERROR: Unexpected </pattern> tag (line 8, column 27)
+PARSE ERROR: Unexpected <template> tag (line 9, column 2)
+PARSE ERROR: Unexpected <srai> tag (line 9, column 12)
+PARSE ERROR: Unexpected </srai> tag (line 9, column 42)
+PARSE ERROR: Unexpected </template> tag (line 9, column 49)
+
+FATAL PARSE ERROR in file standard/AdmissionDomain\2.aiml:
+standard/AdmissionDomain\2.aiml:10:3: mismatched tag
+Exception in thread tty:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Users\PRABHA\Desktop\INTELLO\intello\frontends\tty.py", line 41, in go
+    input = raw_input(">>> ")
+EOFError
+
+Traceback (most recent call last):
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 85, in <module>
+    main()
+  File "C:\Users\PRABHA\Desktop\INTELLO\runme.py", line 81, in main
+    time.sleep(10)
+KeyboardInterrupt

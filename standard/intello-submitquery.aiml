@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0.1">
+
+
+<category>
+<pattern>SUBMIT A QUERY</pattern>
+<template>
+<think><set name="topic">Q</set></think>
+PLEASE WRITE YOUR QUERIES BELOW!!!!.
+</template>
+</category>
+
+<topic name = "Q">
+<category>
+<pattern>*</pattern>
+<template>
+<system>scripts/query.py "<star />"</system>
+<think><set name="topic"></set></think>
+</template>
+</category>
+</topic>
+
+</aiml>

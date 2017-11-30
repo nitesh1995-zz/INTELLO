@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+	<category>
+		<pattern>HOW DOES ONE APPLY THROUGH THE ECA OR SPORTS QUOTA</pattern>
+		<template>Check out the following link for the same:- http://www.du.ac.in/du/index.php?page=sports-eca-category</template>
+	</category>	
+	<category>
+		<pattern>WHAT ABOUT SPORTS QUOTA AND ECA ADMISSIONS</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>	
+	<category>
+		<pattern>SPORTS QUOTA AND ECA ADMISSIONS</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE TO BE FOLLOWED FOR SPORTS QUOTA AND ECA ADMISSIONS</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME HOW TO APPLY VIA SPORTS QUOTA</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHAT IS THE PROCEDURE FOR ECA ADMISSION</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY SPORTS QUOTA</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+	<category>
+		<pattern>ARE SEATS RESERVED FOR SPORTS BACKGROUND</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY RESERVATION FOR SPORTS BACKGROUND</pattern>
+		<template><srai>How does one apply through the ECA or Sports quota</srai></template>
+	</category>
+    <category>
+        <pattern>SPORTS QUOTA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>	
+	<category>
+        <pattern>ECA QUOTA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>	
+	<category>
+        <pattern>* SPORTS QUOTA</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>	
+	<category>
+        <pattern>* ECA QUOTA</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* SPORTS QUOTA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>	
+	<category>
+        <pattern>* ECA QUOTA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>SPORTS QUOTA</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>ECA QUOTA</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* QUOTA * SPORTS *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* QUOTA * ECA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>QUOTA * SPORTS</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>QUOTA * ECA</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* QUOTA * SPORTS</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* QUOTA * ECA</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>QUOTA * SPORTS *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>QUOTA * ECA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* SPORTS *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	<category>
+        <pattern>* ECA *</pattern>
+        <template><srai>How does one apply through the ECA or Sports quota</srai></template>
+    </category>
+	
+	<category>
+		<pattern>IS A CANDIDATE REQUIRED IN PERSON ON THE DAY OF ADMISSION</pattern>
+		<template>There might exist some relaxation for same in exceptional cases, for more info please contact the college authorities.</template>
+	</category>
+	<category>
+		<pattern>IS IT NECESSARY TO BE PRESENT IN PERSON FOR THE ADMISSION PROCEDURE</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>PHYSICAL PRESENCE NECESSARY ON THE DAY OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>AM I REQUIRED TO BE PRESENT ON THE DAY OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME IF I HAVE TO BE PRESENT ON THE DAY OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME IF I THE CANDIDATE HAS TO BE PRESENT ON THE DAY OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>CANDIDATE'S PRESENCE REQUIRED ON THE DAY OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>CANDIDATE SHOULD BE PRESENT ON THE DAY OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>DOES THE CANDIDATE NEED TO BE PRESENT AT THE TIME OF ADMISSION</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>PRESENCE * CANDIDATE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* PRESENCE * CANDIDATE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* PRESENCE * CANDIDATE</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>CANDIDATE * PRESENCE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* CANDIDATE * PRESENCE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* CANDIDATE * PRESENCE</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>CANDIDATE'S PRESENCE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* CANDIDATE'S PRESENCE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* CANDIDATE'S PRESENCE</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>PRESENT * CANDIDATE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* PRESENT * CANDIDATE *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* PRESENT * CANDIDATE</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>CANDIDATE * PRESENT *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* CANDIDATE * PRESENT *</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* CANDIDATE * PRESENT</pattern>
+		<template><srai>Is a candidate required in person on the day of admission</srai></template>
+	</category>
+	
+
+
+	<category>
+		<pattern>PROVIDE ME SOME INFORMATION ABOUT THE COLLEGE</pattern>
+		<template>You can get information about the college on the following link- http://sscbsdu.ac.in/index.php/sscbs</template>
+	</category>
+	<category>
+		<pattern>HOW CAN I GET SOME INFORMATION ABOUT THIS COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>I WANT TO KNOW SOMETHING ABOUT THE COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME ABOUT THE COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME SOMETHING ABOUT THE COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>* ABOUT * COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>* ABOUT * COLLEGE *</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>ABOUT * COLLEGE *</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>INFORMATION ABOUT * COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>* INFORMATION * COLLEGE</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+	<category>
+		<pattern>* INFORMATION * COLLEGE *</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+    <category>
+		<pattern> INFORMATION * COLLEGE *</pattern>
+		<template><srai>provide me some information about the college</srai></template>
+	</category>
+
+	<category>
+		<pattern>TELL ME IF IT IS POSSIBLE TO CHANGE THE COLLEGE AFTER COMPLETING MY FIRST YEAR</pattern>
+		<template>There may be provision for migration in other DU colleges. You can contact respective college administrative staff for further details.</template>
+	</category>
+	<category>
+		<pattern>* CHANGE * COLLEGE *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* CHANGE COLLEGE *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* CHANGE * COLLEGE</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME IF IT IS POSSIBLE TO CHANGE THE COLLEGE AFTER COMPLETING THE FIRST YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>IS IT POSSIBLE TO CHANGE MY COLLEGE AFTER COMPLETING FIRST YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>IS IT POSSIBLE TO CHANGE MY COLLEGE AFTER COMPLETING THE ADMISSION PROCEDURE</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I CHANGE MY COLLEGE AFTER COMPLETING FIRST YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>AFTER COMPLETING THE ADMISSION PROCEDURE IF THERE IS A CHANCE I CAN CHANGE MY COLLEGE</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>ONCE I HAVE TAKEN ADMISSION IN A PARTICULAR COLLEGE CAN I CHANGE MY COLLEGE DURING THE COURSE OF STUDY OR AFTER COMPLETING FIRST YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* IMMIGRATION *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>IMMIGRATION *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* IMMIGRATION</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>IS IMMIGRATION TO OTHER COLLEGE AFTER FIRST YEAR POSSIBLE</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>IS IMMIGRATION POSSIBLE</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>AM I ALLOWED TO CHANGE MY COLLEGE AFTER COMPLETING THE FIRST YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* MIGRATE *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>MIGRATE *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* MIGRATION</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* MIGRATION *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>MIGRATION *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* MIGRATE</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I CONTINUE MY DEGREE IN A DIFFERENT COLLEGE OF DU AFTER COMPLETING ONE YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I CONTINUE MY DEGREE IN A DIFFERENT COLLEGE OF DU AFTER COMPLETING ONE YEAR *</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+	<category>
+		<pattern>* CAN I CONTINUE MY DEGREE IN A DIFFERENT COLLEGE OF DU AFTER COMPLETING ONE YEAR</pattern>
+		<template><srai>tell me if it is possible to change the college after completing my first year</srai></template>
+	</category>
+
+
+	<category>
+		<pattern>IDENTITY CARD</pattern>
+		<template>You will possibly get your I-cards within one month of starting of college. For further queries contact administration staff.</template>
+	</category>
+	<category>
+		<pattern>* I CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ICARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY-CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I-CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ID CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ID-CARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHEN WOULD THE STUDENTS GET THE I CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHEN WOULD I GET MY IDENTITY CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>I CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>ICARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL I GET MY IDENTITY CARD AFTER ADMISSION</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN I WILL RECEIVE MY IDENTITY CARD AFTER ADMISSION</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WOULD I GET MY ICARD AFTER ADMISSION</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN I WILL GET MY I CARD AFTER ADMISSION</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL I RECEIVE MY ICARD AFTER ADMISSION</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL IDENTITY CARDS BE ISSUED</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL COLLEGE ISSUE ME AN IDENTITY CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I CARDS</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I CARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>I CARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ICARDS</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ICARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>ICARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I CARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>I CARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ICARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ICARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>ICARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY CARDS</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY CARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>IDENTITY CARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY-CARDS</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY CARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>IDENTITY CARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* IDENTITY-CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I-CARDS</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ID CARDS</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ID-CARDS *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* I-CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ID CARD</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+	<category>
+		<pattern>* ID-CARD *</pattern>
+		<template><srai>Identity card</srai></template>
+	</category>
+
+	<category>
+		<pattern>WILL COLLEGE KEEP MY ORIGINAL DOCUMENTS</pattern>
+		<template>
+		<random>
+		<li>You will have to submit your original documents to the college at the time of admission, for more info please contact the college authorities.</li>
+		<li>It is necessary to submit the original documents to the college at the time of admission, for more info please contact the college authorities.</li>
+		</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WOULD COLLEGE ACQUIRE MY ORIGINAL DOCUMENTS</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>WOULD I HAVE TO SUBMIT MY ORIGINAL DOCUMENTS TO COLLEGE AT THE TIME OF ADMISSION</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>DO I NEED TO BRING MY ORIGINAL DOCUMENTS ALONG</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>WILL COLLEGE ASK FOR ORIGINAL DOCUMENTS DURING ADMISSION PROCEDURE</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>WILL IT BE REQUIRED TO SUBMIT ORIGINALS FOR ADMISSION</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>* ORIGINALS *</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>* ORIGINALS</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>ORIGINALS *</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>* ORIGINAL DOCUMENTS *</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>* ORIGINAL DOCUMENTS</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>ORIGINAL DOCUMENTS *</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>* DOCUMENTS *</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>* DOCUMENTS</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+	<category>
+		<pattern>DOCUMENTS *</pattern>
+		<template><srai>Will college keep my original documents</srai></template>
+	</category>
+		<category>
+		<pattern>DO I NEED TO SUBMIT MY MARKSHEETS</pattern>
+		<template>Yes, you do need to submit your class 10th and 12th original marksheets to the college for admission.</template>
+	</category>
+	<category>
+		<pattern>* MARKSHEETS *</pattern>
+		<template><srai>DO I NEED TO SUBMIT MY MARKSHEETS</srai></template>
+	</category>
+	<category>
+		<pattern>* MARKSHEETS</pattern>
+		<template><srai>DO I NEED TO SUBMIT MY MARKSHEETS</srai></template>
+	</category>
+	<category>
+		<pattern>MARKSHEETS *</pattern>
+		<template><srai>DO I NEED TO SUBMIT MY MARKSHEETS</srai></template>
+	</category>
+    
+
+	<category>
+		<pattern>CAN I SIMPLY SUBMIT PHOTOCOPIES OF THE ORIGINAL DOCUMENTS AT THE TIME OF ADMISSION</pattern>
+		<template>No,original documents are required at the time of admission.</template>
+	</category>
+	<category>
+		<pattern>PHOTOCOPIES OF THE ORIGINAL DOCUMENTS</pattern>
+		<template><srai>Can I simply submit photocopies original documents at the time of admission</srai></template>
+	</category>
+	<category>
+		<pattern>PHOTOCOPIES OF THE ORIGINALS</pattern>
+		<template><srai>Can I simply submit photocopies original documents at the time of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* PHOTOCOPIES *</pattern>
+		<template><srai>Can I simply submit photocopies original documents at the time of admission</srai></template>
+	</category>
+	<category>
+		<pattern>* PHOTOCOPIES</pattern>
+		<template><srai>Can I simply submit photocopies original documents at the time of admission</srai></template>
+	</category>
+	<category>
+		<pattern>PHOTOCOPIES *</pattern>
+		<template><srai>Can I simply submit photocopies original documents at the time of admission</srai></template>
+	</category>
+	
+	<category>
+		<pattern>GET MY ORIGINALS BACK</pattern>
+		<template>You can collect your documents by writing an application and by fulfilling any requirement stated by administrative staff at any time.</template>
+	</category>
+	<category>
+		<pattern>WHAT SHOULD I DO IF I WANT TO WITHDRAW MY DOCUMENTS BACK FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT TO DO TO GET MY DOCUMENTS BACK FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SHOULD I DO TO GET MY ORIGINALS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME HOW TO WITHDRAW MY ORIGINALS FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT CAN I DO TO GET MY ORIGINAL CERTIFICATES BACK FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>GET MY DOCUMENTS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME HOW TO GET MY ORIGINAL DOCUMENTS BACK FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>HOW CAN I GET MY ORIGINALS BACK FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN CAN I COLLECT MY DOCUMENTS FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WOULD I GET MY DOCUMENTS BACK FROM COLLEGE</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE TO WITHDRAW DOCUMENTS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* GET * DOCUMENTS *</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* GET * DOCUMENTS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* GET * ORIGINALS *</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* GET * ORIGINALS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* GET * CERTIFICATES *</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* GET * CERTIFICATES</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* WITHDRAW * DOCUMENTS *</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* WITHDRAW * DOCUMENTS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* WITHDRAW * ORIGINALS *</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* WITHDRAW * ORIGINALS</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* WITHDRAW * CERTIFICATES *</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+	<category>
+		<pattern>* WITHDRAW * CERTIFICATES</pattern>
+		<template><srai>get my originals back</srai></template>
+	</category>
+
+	<category>
+		<pattern>BEGINNING DATE OF THE NEW SESSION</pattern>
+		<template>You can see Delhi University's academic calendar for the same.</template>
+	</category>
+	<category>
+		<pattern>WHEN DOES THE NEW SESSION BEGIN</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN IS THE NEW SESSION ABOUT TO START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN CAN WE EXPECT BEGINING OF NEW SESSION</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE EXPECTED DATE FOR BEGINNING OF NEW SESSION</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL THE NEW SESSION BEGIN</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DOES THE NEW SESSION BEGIN</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DO NEW SESSION STARTS</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN IS THE NEW SESSION ABOUT TO START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN IS COLLEGE GOING TO START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS MY JOINING DATE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN AM I SUPPOSED TO JOIN *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DOES THE NEW SESSION START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DO COLLEGES RESUME</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DO COLLEGES RESUME</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN would the college reopen</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>AROUND WHICH DATE DOES THE COLLEGE START*</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN SHOULD I JOIN THE COLLEGE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN IS THE JOINING *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>AROUND WHICH DATE DOES THE COLLEGE START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH IS THE JOINING DATE FOR NEW SESSION</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN CAN I START COMING TO COLLEGE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WOULD I HAVE TO COME TO COLLEGE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH IS THE JOINING DATE FOR NEW SESSION</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE START DATE FOR NEW SEMESTER *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DOES NEW BATCH START *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEW SEMESTER *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEW SEMESTER *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEW SEMESTER</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEXT SEMESTER *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEXT SEMESTER *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEXT SEMESTER</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEW BATCH *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEW BATCH *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEW BATCH</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN DO NEW SESSION STARTS</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>FROM WHICH DATE DO I HAVE TO START COMING TO THE COLLEGE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEW SESSION*S STARTING DATE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEW SESSION STARTS ON</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEW SESSION STARTING ON</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL NEW SESSION BEGIN</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>WHEN WILL NEW SESSION START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME WHEN WOULD THE NEXT SESSION START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHEN THE NEXT SESSION WOULD START</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEXT SESSION *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEXT SESSION *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEXT SESSION</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEW SESSION *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>NEW SESSION *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* NEW SESSION</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* JOINING DATE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* JOINING DATE *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* JOIN *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* JOIN</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>JOIN *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>COMING * COLLEGE *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* COMING * COLLEGE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* COMING * COLLEGE *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>COME * COLLEGE *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* COME * COLLEGE</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+	<category>
+		<pattern>* COME * COLLEGE *</pattern>
+		<template><srai>Beginning date of the new session</srai></template>
+	</category>
+
+	
+      
+
+</aiml>

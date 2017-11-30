@@ -1,0 +1,1244 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0.1" encoding="UTF-8">
+
+              
+        <category>
+                <pattern>WHERE CAN I GET THE FORMS</pattern>
+                <template>Admission form is available on the University of Delhi's website. If you have already filled the online form, you don't need to fill any physical copy of admission form. For more information, please check the given link- du.ac.in</template>
+        </category>
+        <category>
+                <pattern>WHERE CAN I SUBMIT MY FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME HOW I CAN GET THE ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME FROM WHERE CAN I GET THE ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>FROM WHERE MAY I GET THE ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>HOW CAN I GET THE ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>FROM WHERE CAN I GET THE ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>IS IT NECESSARY TO FILL OFFLINE FORM EVEN IF I HAVE ALREADY REGISTERED ONLINE</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>DOES IT MAKE ANY DIFFERENCE WHETHER I APPLY ONLINE OR OFFLINE</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>DOES IT MATTER WHETHER I APPLY ONLINE OR OFFLINE</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>I HAVE REGISTERED ONLINE ON THE DU WEBSITE DO I STILL NEED TO FILL UP THE OFFLINE FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>DO I HAVE TO SUBMIT ANY FORM FOR ADMISSION IN *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+        <category>
+                <pattern>* ADMISSION FORM *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION FORMS *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION FORMS *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION * FORM *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION * FORMS *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION FORMS</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION FORMS</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION FORM</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* FORM * ADMISSION *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>* FORMS * ADMISSION *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>FORM * ADMISSION *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>FORMS * ADMISSION *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+				<category>
+                <pattern>FORMS FOR ADMISSION *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>FORM FOR ADMISSION *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+
+		<category>
+                <pattern>FORM FOR ADMISSION</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+
+		<category>
+                <pattern>FORMS FOR ADMISSION</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION * FORM *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION * FORMS *</pattern>
+                <template><srai>Where can I get the forms</srai></template>
+        </category>
+
+
+        
+
+
+        <category>
+                <pattern>LAST DAY FOR PAYMENT</pattern>
+                <template>For queries related to last dates of form submission, fees payment, and other information, check the admission circular on the college website.</template>
+        </category>
+        <category>
+                <pattern>LAST DATE FOR FEE PAYMENT</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHAT IS THE LAST DATE FOR FORM SUBMISSION</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHEN CAN I SUBMIT THE FORM LASTLY</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHEN AT LAST CAN I SUBMIT THE FORM</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHICH IS LAST DATE FOR FORM SUBMISSION</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHEN IS THE LAST DATE TO PAY THE FEES</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHEN AT LAST I CAN PAY THE FEES</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHAT IS LAST DATE FOR THE FEE PAYMENT</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME WHICH IS LAST DATE FOR FEE PAYMENT</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>ADMISSION STARTS ON</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>LAST DATE FOR ADMISSION</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+        <category>
+                <pattern>IS THERE ANY LAST DATE FOR FEE PAYMENT</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>LAST DATE</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>LAST DATE *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST DATE</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST DATE *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST * DATE *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST * DATE</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST DATE *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>LAST DAY</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>LAST DAY *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST DAY</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST DAY *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST * DAY *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST * DAY</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* LAST DAY *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* DEADLINE *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>* DEADLINE</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>DEADLINE *</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+		<category>
+                <pattern>DEADLINE</pattern>
+                <template><srai>last day for payment</srai></template>
+        </category>
+
+        <category>
+                <pattern>MODE OF PAYMENT</pattern>
+                <template>The available modes of payment for College Fees are Demand Draft, Credit Card, Debit Card, Net Banking and NEFT.</template>
+        </category>
+        <category>
+                <pattern>PAYMENT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+        <category>
+                <pattern>WHAT ARE THE AVAILABLE MODES OF PAYMENT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+        <category>
+                <pattern>CAN I PAY FEES THROUGH MODE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+        <category>
+                <pattern>CAN I DO PAYMENT IN MODE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+        <category>
+                <pattern>CAN I PAY FEES IN MODE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>HOW CAN I PAY MY APPLICATION FEES</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* APPLICATION FEES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>APPLICATION FEE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* APPLICATION FEES</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* APPLICATION FEE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>APPLICATION FEES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>APPLICATION FEE *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION FEES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION FEE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION FEES</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION FEE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION FEES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION FEE *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>PAYMENT MODE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>PAYMENT MODES</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* PAYMENT MODE</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* PAYMENT MODES</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>PAYMENT MODE *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>PAYMENT MODES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* PAYMENT MODE *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* PAYMENT * MODE *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* PAYMENT MODES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* PAYMENT * MODES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+        <category>
+                <pattern>* PAYMENT * MODES *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* MODES OF PAYMENT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* MODE OF PAYMENT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* MODES OF PAYMENT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* MODE OF PAYMENT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>MODES OF PAYMENT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+
+		<category>
+                <pattern>MODES OF PAYMENT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>MODE OF PAYMENT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+        <category>
+                <pattern>* DEMAND DRAFT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* DEMAND DRAFT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>DEMAND DRAFT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* CREDIT CARD *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* CREDIT CARD</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>CREDIT CARD *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* DEBIT CARD *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* DEBIT CARD</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>DEBIT CARD *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* NET BANKING *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* NET BANKING</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>NET BANKING *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* NEFT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>* NEFT</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+		<category>
+                <pattern>NEFT *</pattern>
+                <template><srai>mode of payment</srai></template>
+        </category>
+
+        <category>
+                <pattern>FIRST COME FIRST SERVE POLICY FOR ADMISSION</pattern>
+                <template>
+                        <random>
+                                <li>Any student who clears the cut off would be allowed admission.</li>
+                                <li>There is no first come first serve policy. Every student who clears the cut-off would be allowed admission.</li>
+                        </random>
+                </template>
+        </category>
+        <category>
+                <pattern>IS ADMISSION ON THE BASIS OF FIRST COME FIRST SERVE BASIS</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+        <category>
+                <pattern>AFTER THE DECLARATION OF THE CUT-OFF ARE STUDENTS GIVEN ADMISSION ON THE FIRST COME FIRST SERVE BASIS</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME IF THERE IS ANY FIRST COME FIRST SERVE POLICY FOR ADMISSION</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME IF THERE IS ANY FIRST COME FIRST SERVE POLICY FOR THE ADMISSIONS IN THIS COLLEGE</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* FIRST COME FIRST SERVE *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* FIRST COME FIRST SERVE</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>FIRST COME FIRST SERVE *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+
+		<category>
+                <pattern>FIRST COME FIRST SERVE</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* FCFS *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* FCFS</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>FCFS *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+
+		<category>
+                <pattern>FIXED NUMBER OF SEATS</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>FIXED NUMBER OF SEATS *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* FIXED NUMBER OF SEATS</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* FIXED NUMBER OF SEATS *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE FULL *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE FULL</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>SEATS ARE FULL *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE FULL *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE FILLED</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>SEATS ARE FILLED *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE TAKEN *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE TAKEN</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>SEATS ARE TAKEN *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE OVER *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS ARE OVER</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>SEATS ARE OVER *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+		<category>
+                <pattern>* SEATS *</pattern>
+                <template><srai>First come first serve policy for admission</srai></template>
+        </category>
+
+
+
+
+
+        <category>
+                <pattern>BEGINNING OF ADMISSION PROCEDURE</pattern>
+                <template>Admission procedure generally starts in the months of May and June. For more details, check the link:- http://www.du.ac.in/du/</template>
+        </category>        
+        <category>
+                <pattern>WHEN DOES THE ADMISSION PROCEDURE BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>ADMISSIONS STARTING DATE</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>ADMISSIONS START ON</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>ADMISSIONS STARTING ON</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>WHEN WILL ADMISSIONS BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        
+        <category>
+                <pattern>TELL ME ABOUT WHEN THE ADMISSION PROCEDURE WOULD BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME WHEN THE ADMISSION PROCEDURE BEGINS</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>WHAT IS THE STARTING DATE OF ADMISSION IN *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+        <category>
+                <pattern>WHEN WILL THE ADMISSION PROCEDURE FOR * BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE * BEGINS</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION BEGINS *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE * BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE BEGIN *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION BEGIN *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSIONS BEGIN *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION BEGINS *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION BEGIN *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSIONS BEGIN *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSIONS BEGIN</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION BEGINS</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE * STARTS</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION STARTS *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE * START</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE START</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE START *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION START *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSIONS START *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION START *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSIONS START *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION START</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSIONS START</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION STARTS</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE * COMMENCES</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION COMMENCES *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE * COMMENCE</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE COMMENCE</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION PROCEDURE COMMENCE *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION COMMENCE *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSIONS COMMENCE *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSION COMMENCE *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>ADMISSIONS COMMENCE *</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION COMMENCE</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSIONS COMMENCE</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		<category>
+                <pattern>* ADMISSION COMMENCES</pattern>
+                <template><srai>Beginning of admission procedure</srai></template>
+        </category>
+		
+		
+
+
+
+
+        <category>
+                <pattern>WHAT IS THE PROCEDURE TO TAKE ADMISSION</pattern>
+                <template>
+                        <random>
+                                <li>You can apply by following the procedure mentioned  on the college website:- www.sscbs.du.ac.in .</li>
+                                <li>Visit college website:-www.sscbs.du.ac.in , to know more about the admission procedure.</li>
+                        </random>
+                </template>
+        </category>
+        <category>
+                <pattern>HOW DO I GET ADMISSION IN THE COLLEGE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE ADMISSION PROCEDURE FOR TAKING ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE ADMISSION PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>YOU CAN TELL ME ABOUT THE ADMISSION PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>ENROLLMENT PROCEDURE FOR *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>ENROLMENT PROCEDURE FOR *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>HOW TO ENROLL FOR *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHERE CAN I ENQUIRE ABOUT ADMISSIONS</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE PROCEDURE FOR TAKING ADMISSION IN *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>ADMISSION PROCEDURE FOR *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>ADMISSION PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE PROCEDURE OF ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>TELL ME ABOUT THE ADMISSION PROCEDURE IN *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE PROCEDURE FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>I WANT TO KNOW ABOUT THE ADMISSION PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT ARE THE STEPS FOR ADMISSION PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE PROCESS FOR ADMISSION IN *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>WHAT IS THE PROCEDURE FOR ADMISSION IN *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>HOW DO I APPLY FOR *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>PROCEDURE FOR ADMISSION IN *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>STEPS FOR ADMISSION IN *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+        <category>
+                <pattern>ADMISSION STEPS FOR *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>        
+		<category>
+                <pattern>* ADMISSION PROCEDURE *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>ADMISSION PROCEDURE *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>ADMISSION * PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION * PROCEDURE</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION * PROCEDURE *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>ADMISSION * PROCEDURE *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION PROCESS *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>ADMISSION PROCESS *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION PROCESS</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>ADMISSION * PROCESS</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION * PROCESS</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* ADMISSION * PROCESS *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>ADMISSION * PROCESS *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>HOW TO APPLY *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* HOW TO APPLY *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* HOW * APPLY *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>HOW * APPLY *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category> 
+		<category>
+                <pattern>HOW * APPLY</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>STEPS FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* STEPS FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>STEPS FOR ADMISSION *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* STEPS * FOR ADMISSION *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>STEPS * FOR ADMISSION *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>STEPS * FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* STEPS * FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* STEPS * FOR * ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* STEPS FOR * ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* STEPS FOR * ADMISSION *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>STEPS FOR * ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>STEPS * FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>FOR ADMISSION *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* FOR ADMISSION *</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+		<category>
+                <pattern>* FOR ADMISSION</pattern>
+                <template><srai>what is the procedure to take admission</srai></template>
+        </category>    
+
+        <category>
+                <pattern>WHAT IS THE PLACEMENT PERCENTAGE OF THE COLLEGE</pattern>
+                <template>In the past few years, the value of CBS in terms of placements has soared and has become an integral part of the college for established as well as fresh companies to scout for talent and an attraction for management students shaping their career. For placement progress, please visit the given link- http://sscbsdu.ac.in/index.php/2014-06-12-16-04-46/2014-06-12-16-11-38</template>
+</category>
+<category>
+                <pattern>CAN YOU TELL ME ABOUT PLACEMENT IN THIS COLLEGE</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+</category>
+<category>
+                <pattern>HOW ARE THE PLACEMENTS OF THIS COLLEGE</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>CAN I KNOW ABOUT THE PLACEMENT PERCENTAGE</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+<category>
+                <pattern>WHAT ABOUT PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+</category>
+<category>
+                <pattern>CAN I GET ANY INFORMATION REGARDING PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+</category>
+
+
+<category>
+                <pattern>HOW WOULD YOU MARK THE PLACEMENT OF *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+<category>
+                <pattern>HOW GOOD ARE THE PLACEMENTS * </pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+<category>
+                <pattern>HOW MANY STUDENTS GET PLACED *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+<category>
+                <pattern>WHERE TO CHECK FOR THE PLACEMENT *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+</category>
+
+
+<category>
+                <pattern>HOW WAS THE PLACEMENT SESSION OF *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+</category>
+
+
+<category>
+                <pattern>WHAT ABOUT PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+</category>
+
+
+<category>
+                <pattern>WHAT ABOUT PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+<category>
+                <pattern>WHAT IS AVERAGE PLACEMENT OF *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+<category>
+                <pattern>TELL ME ABOUT PLACEMENTS *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>HOW IS THE CAMPUS PLACEMENT CELL OF THE COLLEGE</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>WHAT CAN YOU SAY ABOUT THE PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>HOW MANY STUDENTS GET PLACED EVERY YEAR FROM THIS COLLEGE</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>HOW ARE STUDENTS RECRUITED</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>TELL ME HOW MY WARD CAN GET PLACED</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+        <category>
+                <pattern>CAN YOU TELL ME ABOUT THE PLACEMENT CELL OF THIS COLLEGE</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENT</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENT *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENT</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENT *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENTS *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENTS *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENT</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENT *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENT</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>RECRUITMENT</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>RECRUITMENT *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* RECRUITMENT</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* RECRUITMENT *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>RECRUITMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>RECRUITMENTS *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* RECRUITMENTS</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* RECRUITMENTS *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* COMPANIES *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>COMPANIES *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* COMPANIES</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACED</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACED *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* RECRUITED</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* RECRUITED *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENT CELL *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>* PLACEMENT CELL</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENT CELL *</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+		<category>
+                <pattern>PLACEMENT CELL</pattern>
+                <template><srai>what is the placement percentage of the college</srai></template>
+        </category>
+
+
+
+</aiml>

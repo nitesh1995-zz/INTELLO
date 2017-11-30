@@ -1,0 +1,1598 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0.1">
+
+	
+
+
+<!--NSS AND NCC CANDIDATES -->
+
+	<category>
+		<pattern>WHAT IS THE PROCEDURE TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template>There may be a provision for special seats for NSS/NCC candidates. Please contact college administration for further details.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE ADMISSION PROCEDURE TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE ADMISSION PROCEDURE FOR NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHAT ADMISSION PROCEDURE IS TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHAT PROCEDURE IS TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>PROCEDURE TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ADMISSION PROCEDURE TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ADMISSION PROCEDURE FOR NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ABOUT NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE SPECIAL SEATS FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE SPECIAL SEATS FOR NCC AND NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE ANY SEATS RESERVED FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE ANY SEATS RESERVED FOR NCC AND NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY LEVERAGE GIVEN TO NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE ANY RESERVED SEATS FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC AND NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>RESERVED SEATS FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>SEATS RESERVED FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>RESERVATION FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE ANY RESERVED SEATS FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ANY SEATS RESERVED FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>SEATS RESERVED FOR NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC AND NSS RESERVATION</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC AND NSS SEAT RESERVATION</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ANY NCC AND NSS RESERVATION</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>	
+	<category>
+		<pattern>* PROCEDURE IS TO BE FOLLOWED BY NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS AND NCC CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC AND NSS CANDIDATES</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC AND NSS *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS AND NCC *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC AND NSS *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NSS AND NCC *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC AND NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS AND NCC</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NSS *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC * NSS RESERVATION</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC * NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NSS * NCC</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC * NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS * NCC</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NCC * NSS *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>NSS * NCC *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC * NSS *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NSS * NCC *</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+	<category>
+		<pattern>* NCC AND NSS</pattern>
+		<template><srai>What is the procedure to be followed by NSS and NCC candidates</srai></template>
+	</category>
+
+
+<!--COLLEGE LOCATION -->
+
+	<category>
+		<pattern>WHERE IS SSCBS</pattern>
+		<template>You can visit the following link on Google Maps to find accurate location of our college https://goo.gl/CVGtvU</template>
+	</category>
+	<category>
+		<pattern>WHERE IS SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS CBS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS COLLEGE LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>	
+	<category>
+		<pattern>WHERE IS SSCBS LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS CBS LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE DOES SSCBS IS LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE DOES CBS IS LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>GET ME LOCATION OF MY COLLEGE</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF COLLEGE</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF CBS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF SSCBS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCALITY IN WHICH COLLEGE IS SITUATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCALITY IN WHICH CBS IS SITUATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCALITY IN WHICH SSCBS IS SITUATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH LOCALITY IS THE COLLEGE SITUATED IN</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH LOCALITY IS THE SSCBS SITUATED IN</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH LOCALITY IS THE CBS SITUATED IN</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE NEAREST LANDMARK OF THE COLLEGE</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE NEAREST LANDMARK OF CBS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE NEAREST LANDMARK OF SSCBS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF THE COLLEGE ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF CBS ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF SSCBS ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>CBS LOCATION ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>SSCBS LOCATION ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>COLLEGE LOCATION ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>COLLEGE LOCATION</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>CBS LOCATION</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>SSCBS LOCATION</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS THE COLLEGE LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF THE COLLEGE</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE IS * LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE DOES * IS LOCATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCALITY IN WHICH * IS SITUATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH LOCALITY IS * SITUATED IN</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION OF * ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE NEAREST LANDMARK OF *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* LANDMARK *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LANDMARK *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* LANDMARK</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LANDMARK</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* LOCATION ON GOOGLE MAPS</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>LOCATION *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* LOCATION</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* LOCATION *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* SITUATED</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* SITUATED *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>SITUATED *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* REACH *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>REACH *</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+	<category>
+		<pattern>* REACH</pattern>
+		<template><srai>where is sscbs</srai></template>
+	</category>
+
+
+<!--COURSES DURATION -->
+
+	<category>
+		<pattern>WHAT IS THE DURATION OF DIFFERENT COURSES</pattern>
+		<template>Duration of BMS, BBS, BSC and BFIA is 3 years.</template>
+	</category>
+	<category>
+		<pattern>COURSE DURATION</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TIME PERIOD</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TIME PERIOD *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* TIME PERIOD *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* TIME PERIOD</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE TIME PERIOD OF THIS COURSE OF THIS *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE DURATION *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE DURATION</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE DURATION *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* DURATION</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* DURATION *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>DURATION *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>DURATION * COURSE</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>HOW LONG WOULD I HAVE TO PURSUE THIS COURSE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>HOW LONG WILL THIS COURSE LAST *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ABOUT COURSE DURATION *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE CAN I GET TO KNOW ABOUT THE DURATION FOR *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME THE DURATION OF THE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>HOW LONG WILL THIS COURSE LAST *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME THE DURATION OF THE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE DURATION OF *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME THE DURATION OF THE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE TIME PERIOD OF *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME ABOUT THE DURATION OF THE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS COURSE DURATION OF *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* TIME REQUIRED TO COMPLETE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TIME REQUIRED TO COMPLETE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TIME TO COMPLETE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* TIME TO COMPLETE *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* 3 YEAR *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* 3 YEAR</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>3 YEAR *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* 3 YEARS *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* 3 YEARS</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+	<category>
+		<pattern>3 YEARS *</pattern>
+		<template><srai>What is the duration of different courses</srai></template>
+	</category>
+
+
+<!--COURSES OFFERED -->
+
+	<category>
+		<pattern>WHICH COURSES YOU ARE OFFERING</pattern>
+		<template>Following courses are offered by the college:- Bachelor of Computer Science, Bachelor of Management Studies(BMS), Bachelor of Business Studies(BBS) and Bachelor of Financial and Investment Analysis(BFIA).</template>
+	</category>
+	<category>
+		<pattern>WHAT COURSES YOU ARE OFFERING</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>FOR WHAT COURSES CAN I ENROLL</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>FOR WHICH COURSES CAN I ENROLL</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT COURSES CAN I ENROLL FOR</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERED BY COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERED BY COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE COURSE OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH ARE THE COURSE OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>HOW MANY COURSES ARE AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>COURSE AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERS COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERING COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABLE COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+		<category>
+		<pattern>OFFERED COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERS COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERING COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABLE COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHAT ARE THE COURSES OFFERED BY THE COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHICH COURSES ARE OFFERED BY THE COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>LIST OF COURSES AVAILABLE IN THE COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>LIST OF COURSES OFFERED BY THE COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT COURSES CAN I CHOOSE FROM</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH COURSES ARE OFFERED BY THE COLLEGE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ALL COURSES DOES THIS COLLEGE OFFER</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ALL COURSE OPTIONS DO I HAVE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * OFFERS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * OFFERS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERING</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERING *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERING *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * OFFERING *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * OFFERING</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OPTIONS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * OPTIONS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OPTIONS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OPTION *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * OPTION *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * OPTION</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OPTION *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OPTION</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERED BY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERED BY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>COURSE * AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED * COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED * COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED * COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED * COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABLE COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABLE * COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>AVAILABLE * COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE * COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE * COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABILITY * COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY * COURSE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABILITY * COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY * COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABILITY COURSE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * OFFERS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * OFFERS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERING</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERING *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERING *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * OFFERING *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * OFFERING</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OPTIONS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * OPTIONS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * OPTIONS</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OPTIONS *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OPTION *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * OPTION *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * OPTION</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OPTION *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OPTION</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERED BY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERED BY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * OFFERED</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES OFFERED *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>COURSES * AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * AVAILABLE</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * AVAILABLE *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * AVAILABILITY</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES AVAILABILITY *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED * COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED * COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED * COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>OFFERED * COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* OFFERED COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABLE COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABLE * COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>	
+	<category>
+		<pattern>AVAILABLE * COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE * COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABLE * COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABILITY * COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY * COURSES</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABILITY * COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY * COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>* AVAILABILITY COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+	<category>
+		<pattern>AVAILABILITY COURSES *</pattern>
+		<template><srai>Which courses you are offering</srai></template>
+	</category>
+
+
+
+<!--COURSES VIA ENTRANCE -->
+
+	<category>
+		<pattern>WHICH COURSES ARE AVAILABLE FOR ADMISSION VIA ENTRANCE TEST</pattern>
+		<template>The courses offered on the basis of Entrance Exams are :- BBS, BMS and BFIA.</template>
+	</category>
+	<category>
+		<pattern>COURSES THROUGH ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES VIA ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE THROUGH ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE VIA ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE NAME OF THE COURSES IN WHICH ADMISSION IS ON THE BASIS OF ENTRANCE EXAMINATION</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE NAME OF THE COURSES IN WHICH ADMISSION IS ON THE BASIS OF ENTRANCE EXAMINATION</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>NAME THE COURSES IN WHICH ADMISSION IS ON THE BASIS OF ENTRANCE EXAMINATION</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES IN WHICH ADMISSION IS ON THE BASIS OF ENTRANCE EXAMINATION</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>	
+	<category>
+		<pattern>ENTRANCE COURSE</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE COURSES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE * COURSE</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE COURSE</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE COURSE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE * COURSE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE * COURSE</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE COURSE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE * COURSE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE * COURSES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE COURSES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE COURSES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE * COURSES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE * COURSES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE COURSES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE * COURSES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES THROUGH ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES VIA ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * ENTRANCE TEST *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSES * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * ENTRANCES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSES * ENTRANCES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE THROUGH ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE VIA ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * ENTRANCE TEST</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * ENTRANCE TEST *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>COURSE * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * ENTRANCES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* COURSE * ENTRANCES *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* OPTION * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>OPTION * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* OPTIONS * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>OPTIONS * ENTRANCES</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* OPTION * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>OPTION * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>* OPTIONS * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+	<category>
+		<pattern>OPTIONS * ENTRANCE *</pattern>
+		<template><srai>Which courses are available for admission via entrance test</srai></template>
+	</category>
+
+
+<!--ENTRANCE EXAM FOR COURSES -->
+
+	<category>
+		<pattern>ENTRANCE EXAM FOR DIFFERENT COURSES</pattern>
+		<template>Entrance Exam is required for Courses like BBS,BMS and BFIA. However, the admissions for B.sc Computer Science are based on merit.</template>
+	</category>
+	<category>
+		<pattern>ENTRANCE EXAM FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE SHOULD I REGISTER FOR ENTRANCE *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY ENTRANCE EXAM FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH COURSES REQUIRE ENTRANCE EXAM *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>DO I NEED TO PASS AN ENTRANCE EXAM FOR  *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH COURSES CAN NOT BE APPLIED WITHOUT AN ENTRANCE EXAM *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE CAN I GET ANY INFORMATION REGARDING ENTRANCE EXAM FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH COURSES NEED AN ENTRANCE EXAM  *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT THE ENTRANCE EXAM WHICH IS REQUIRED FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>DO I NEED TO PASS AN ENTRANCE EXAM FOR  *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME FOR WHAT COURSES AN ENTRANCE EXAM IS NEEDED *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT  ENTRANCE EXAM IS REQUIRED FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY ENTRANCE EXAM FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE EXAM FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE * FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCES FOR *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE EXAM</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE TEST</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>ENTRANCE</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCE *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* ENTRANCES *</pattern>
+		<template><srai>entrance exam for different courses</srai></template>
+	</category>
+
+
+</aiml>
+

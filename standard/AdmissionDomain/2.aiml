@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0.1">
+
+<!--ASKING FOR "FEE" CONCESSION	-->
+
+
+	
+		<pattern> FEE  CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> FEE  CONCESSION *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEE  CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEE CONCESSION *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> CONCESSION * FEE </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> CONCESSION * FEE *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * CONCESSION * FEE </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * CONCESSION * FEE *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> FEE  DISCOUNT *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEE  DISCOUNT</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEE DISCOUNT *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> DISCOUNT * FEE </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> DISCOUNT * FEE *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * DISCOUNT * FEE </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> * DISCOUNT * FEE *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern> FEE  RELAXATION *</pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEE  RELAXATION</pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEE RELAXATION *</pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern> RELAXATION * FEE </pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern> RELAXATION * FEE *</pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern> * RELAXATION * FEE </pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern> * RELAXATION * FEE *</pattern>
+		<template><srai>Can I get FEE concession</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I GET FEE CONCESSION</pattern>
+		<template>There may be some fee concessions available, please contact the administrative staff for such details.</template>
+	</category>
+	<category>
+		<pattern>WHERE SHOULD I APPLY FOR FEE CONCESSION </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE CAN I GET INFORMATION REGARDING FEE CONCESSION </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	<category>
+	</category>
+		<pattern>ON WHAT BASIS CAN I GET THE FEE CONCESSION * </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>ANY INFORMATION REGARDING FEE CONCESSION *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE REQUIREMENTS FOR FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>HOW TO GATHER ANY INFORMATION REGARDING FEE CONCESSION </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHOM SHOULD I CONTACT TO KNOW ABOUT FEE CONCESSION *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS NEEDED TO BE DONE FOR FEE CONCESSION * </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL  ME ANYTHING ABOUT FEE CONCESSION *</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SHOULD I DO REGARDING FEE CONCESSION * </pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH FEE CONCESSION CAN I GET</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>HOW TO OBTAIN FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FEE CONCESSION PROCEDURE</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>FEE CONCESSION FOR THE STUDENTS</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT FEE CONCESSION FOR STUDENTS</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category>
+	<category>
+		<pattern>PLEASE TELL ME THE STEPS FOR FEE CONCESSION</pattern>
+		<template><srai>Can I get fee concession</srai></template>
+	</category> 
+	
+	
+<!--ASKING FOR "FEES" CONCESSION-->
+
+
+	<category>
+		<pattern> FEES  CONCESSION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEES  CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEES CONCESSION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> CONCESSION FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> CONCESSION * FEES </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> CONCESSION * FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * CONCESSION * FEES </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * CONCESSION * FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> FEES  DISCOUNT *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEES  DISCOUNT</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEES DISCOUNT *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> DISCOUNT * FEES </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> DISCOUNT * FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * DISCOUNT * FEES </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * DISCOUNT * FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>	
+	<category>
+		<pattern> FEES  RELAXATION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEES  RELAXATION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * FEES RELAXATION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> RELAXATION * FEES </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> RELAXATION * FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * RELAXATION * FEES </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern> * RELAXATION * FEES *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I GET FEES CONCESSION</pattern>
+		<template>There may be some FEES concessions available, please contact the administrative staff for such details.</template>
+	</category>
+	<category>
+		<pattern>WHERE SHOULD I APPLY FOR FEES CONCESSION </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE CAN I GET INFORMATION REGARDING FEES CONCESSION </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	<category>
+	</category>
+		<pattern>ON WHAT BASIS CAN I GET THE FEES CONCESSION * </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>ANY INFORMATION REGARDING FEES CONCESSION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ARE REQUIREMENTS FOR FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>HOW TO GATHER ANY INFORMATION REGARDING FEES CONCESSION </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHOM SHOULD I CONTACT TO KNOW ABOUT FEES CONCESSION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS NEEDED TO BE DONE FOR FEES CONCESSION * </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL  ME ANYTHING ABOUT FEES CONCESSION *</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SHOULD I DO REGARDING FEES CONCESSION * </pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH FEES CONCESSION CAN I GET</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>HOW TO OBTAIN FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FEES CONCESSION PROCEDURE</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>FEES CONCESSION FOR THE STUDENTS</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT FEES CONCESSION FOR STUDENTS</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE PROCEDURE FOR FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category>
+	<category>
+		<pattern>PLEASE TELL ME THE STEPS FOR FEES CONCESSION</pattern>
+		<template><srai>Can I get FEES concession</srai></template>
+	</category> 
+	
+	
+<!--ASKING FOR "FEE" STRUCTURE-->
+
+
+	<category>
+		<pattern>FEE STRUCTURE</pattern>
+		<template>
+			<random>
+				<li>Fee structure is good</li>
+				<li>Fee structure for different courses can be checked at the given link- http://sscbsdu.ac.in/index.php/contact-us/2014-01-16-07-43-23</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>FEE STRUCTURE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEE STRUCTURE</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEE STRUCTURE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURE * FEE</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURE * FEE</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURE * FEE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURE * FEE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>FEE AMOUNT</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>FEE AMOUNT *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEE AMOUNT</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEE AMOUNT *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>AMOUNT * FEE</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* AMOUNT * FEE</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>AMOUNT * FEE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>* AMOUNT * FEE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE TUITION FEE FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE CAN I GET INFORMATION REGARDING FEE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME ABOUT THE FEE FOR*</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS FINAL AMOUNT *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FINAL AMOUNT TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH AMOUNT IS TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT AMOUNT HAS TO BE GIVE FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEE IS TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH IS SUM TOTAL AMOUNT*</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS PER SEMESTER FEE FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS ANNUAL FEE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEE IS TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FEE STRUCTURE FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FEE FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH FEE IS TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH DO I HAVE TO PAY FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEE IS  THE FEE STRUCTURE FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT AMOUNT IS TO BE *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT THE FEE STRUCTURE  FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH DO I HAVE TO PAY FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH AMOUNT </pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SUM TOTAL DO I HAVE TO PAY FOR</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH AMOUNT IS TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEE IS TO BE PAID FOR *</pattern>
+		<template><srai>Fee structure</srai></template>
+	</category>
+
+	
+<!--ASKING FOR "FEES" STRUCTURE-->
+
+
+	<category>
+		<pattern>FEES STRUCTURE</pattern>
+		<template>
+			<random>
+				<li>FEES structure is good</li>
+				<li>FEES structure for different courses can be checked at the given link- http://sscbsdu.ac.in/index.php/contact-us/2014-01-16-07-43-23</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>FEES STRUCTURE *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEES STRUCTURE</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEES STRUCTURE *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURE FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURE FEES</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURE * FEES</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURE FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURE * FEES</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>STRUCTURE * FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* STRUCTURE * FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+		<category>
+		<pattern>FEES AMOUNT</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>FEES AMOUNT *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEES AMOUNT</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* FEES AMOUNT *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>AMOUNT * FEES</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* AMOUNT * FEES</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>AMOUNT * FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>* AMOUNT * FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE TUITION FEES FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHERE CAN I GET INFORMATION REGARDING FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME ABOUT THE FEES FOR*</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS FINAL AMOUNT *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FINAL AMOUNT TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH AMOUNT IS TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT AMOUNT HAS TO BE GIVE FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEES IS TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH IS SUM TOTAL AMOUNT*</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS PER SEMESTER FEES FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS ANNUAL FEES *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEES IS TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FEES STRUCTURE FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE FEES FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH FEES IS TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH DO I HAVE TO PAY FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEES IS  THE FEES STRUCTURE FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT AMOUNT IS TO BE *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT THE FEES STRUCTURE  FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH DO I HAVE TO PAY FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH AMOUNT </pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SUM TOTAL DO I HAVE TO PAY FOR</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH AMOUNT IS TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT FEES IS TO BE PAID FOR *</pattern>
+		<template><srai>FEES structure</srai></template>
+	</category>
+
+	
+<!--ASKING FOR RELAXATION FOR FEMALE CANDIDATE-->
+
+
+	<category>
+		<pattern>WILL THERE BE ANY RELAXATION OFFERED TO FEMALE CANDIDATES</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>* WOMEN SCHOLARSHIP</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern> WOMEN SCHOLARSHIP *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>* WOMEN SCHOLARSHIP *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern> WOMEN SCHOLARSHIP</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern> FEMALE SCHOLARSHIP</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* FEMALE SCHOLARSHIP</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern> FEMALE SCHOLARSHIP *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>* FEMALE SCHOLARSHIP *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>* SCHOLARSHIP * FEMALE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>SCHOLARSHIP * FEMALE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>* SCHOLARSHIP * FEMALE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>				
+	<category>
+		<pattern>* SCHOLARSHIP * WOMEN</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>SCHOLARSHIP * WOMEN *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>	
+	<category>
+		<pattern>* SCHOLARSHIP * WOMEN *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>				
+	<category>
+		<pattern>* RELAXATION CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * FEMALE CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * FEMALE CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * FEMALE * CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * FEMALE CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * FEMALE * CANDIDATE</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>*RELAXATION * FEMALE CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION FEMALE * CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * FEMALE * CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * FEMALE * CANDIDATE *</pattern>
+		<template>There might be some relaxation for female candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * WOMEN CANDIDATE</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * WOMEN CANDIDATE</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * WOMEN * CANDIDATE</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * WOMEN CANDIDATE *</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * WOMEN * CANDIDATE</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>*RELAXATION * WOMEN CANDIDATE *</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION WOMEN * CANDIDATE *</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>RELAXATION * WOMEN * CANDIDATE *</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>* RELAXATION * WOMEN * CANDIDATE *</pattern>
+		<template>There might be some relaxation for WOMEN candidates. For this information, please check the college cut off lists. It would be mentioned there.</template>
+	</category>
+	<category>
+		<pattern>ARE THERE ANY CHANCES FOR EXTRA DISCOUNTS OR BENEFITS FOR *</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ABOUT RELAXATION FOR FEMALE STUDENTS</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>PROVIDE ME INFORMATION REGARDING DISCOUNTS</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ANY RELAXATION FOR WOMEN CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ABOUT EXTRA DISCOUNTS FOR SOME CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE THERE ANY DISCOUNTS FOR FEMALE STUDENTS</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>CAN A WOMEN CANDIDATE GET ANY EXTRA BENEFIT</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY EXTRA DISCOUNT FOR FEMALE CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ARE FEMALE CANDIDATES PROVIDED WITH ANY OTHER RELAXATION *</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ABOUT RELAXATION FOR WOMEN CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>ANY FEE CONCESSION FOR WOMEN CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY FEE CONCESSION FOR WOMEN CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT ANY FEE CONCESSION FOR WOMEN CANDIDATES</pattern>
+		<template><srai>Will there be any relaxation offered to female candidates</srai></template>
+	</category>
+	
+	
+<!--ASKING FOR SUBJECTS REQUIRED IN TOP 4-->
+
+	
+	<category>
+		<pattern>WHICH SUBJECTS ARE REQUIRED FOR ADMISSION IN DIFFERENT COURSES</pattern>
+		<template>The subjects you can include in best four depends on admission process. Please visit the given link regarding the elective subjects- http://sscbsdu.ac.in/index.php/contact-us/admission-to-b-sc-h-computer-science/schedule</template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS REQUIRED</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS * REQUIRED</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS REQUIRED *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS * REQUIRED</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS REQUIRED *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS * REQUIRED *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECT * REQUIRED *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>* SUBJECTS * REQUIRED *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>* SUBJECTS TOP</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS * TOP</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS * TOP</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS * TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS * TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECT * TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>SUBJECTS * ADMISSION</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS * ADMISSION</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>SUBJECTS * ADMISSION *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECTS * ADMISSION *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* SUBJECT * ADMISSION *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* BEST 4</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>BEST 4 *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* BEST 4 *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>* BEST FOUR</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>BEST FOUR *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* BEST FOUR *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH SUBJECTS ARE REQUIRED FOR *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I INCLUDE * IN BEST * FOR GETTING ADMISSION IN *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>CAN I INCLUDE * IN BEST * FOR GETTING ADMISSION IN *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CAN I INCLUDE * IN BEST *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME IF I CAN INCLUDE * IN BEST FOUR</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH FOUR SUBJECTS CAN I USE FOR ADMISSION</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH SUBJECTS ARE MANDATORY FOR *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHICH * SUBJECTS SHOULD BE CONSIDERED FOR *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SUBJECTS ARE MANDATORY AS TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT ALL SUBJECTS ARE REQUIRED FOR ADMISSION</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT SUBJECTS SHOULD BE USED AS TOP *</pattern>
+		<template><srai>Which subjects are required for admission in different courses</srai></template>
+	</category>
+
+	
+	<!--ASKING CUTOFF FOR DIFFERENT COURSES-->
+	
+	
+	<category>
+		<pattern>WHAT IS THE CUTOFF FOR DIFFERENT COURSES</pattern>
+		<template>For the cut off list of different courses, check the link- http://www.du.ac.in/du/index.php?page=ug-admission</template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUTOFF FOR *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CUTOFF<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* MARKS * ADMISSION<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+		<category>
+		<pattern>MARKS * ADMISSION *<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* MARKS * ADMISSION *<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* CUTOFF<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CUTOFF *<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* CUTOFF *<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>	
+	<category>
+		<pattern>CUT OFF<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* CUT OFF<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>CUT OFF *<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>* CUT OFF *<pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUTOFF FOR DIFFERENT COURSE</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE ADMISSION CUTOFF FOR *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUTOFF LIST FOR ADMISSION IN DIFFERENT COURSES</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUTOFF LIST OF *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUTOFF LIST FOR ADMISSION IN *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHAT PERCENTAGE IS REQUIRED FOR ADMISSION</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME WHAT IS THE CUT OFF NEEDED FOR ADMISSION</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>HOW MUCH MARKS DO I NEED FOR ADMISSION</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUT OFF FOR  *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE CUT OFF FOR ADMISSION IN *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>IS THERE ANY CUT OFF LIST FOR ADMISSION IN *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+	<category>
+		<pattern>TELL ME ABOUT THE CUT OFF LISTS FOR ADMISSION IN *</pattern>
+		<template><srai>what is the cutoff for different courses</srai></template>
+	</category>
+</aiml>

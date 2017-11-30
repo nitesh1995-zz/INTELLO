@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+		<category>
+				<pattern>FEES</pattern>
+				<template>ARE YOU TALKING ABOUT ADMISSION FEE REFUND OR ADMISSION FEE SUBMISSION</template>  
+        </category>
+		<category>
+				<pattern>* FEES *</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+        <category>
+                <pattern>* FEES</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+        <category>
+                <pattern>FEE *</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+        <category>
+                <pattern>* FEE *</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+        <category>
+                <pattern>FEE</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* FEE</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+        <category>
+                <pattern>FEE *</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+        <category>
+                <pattern>* AMOUNT *</pattern>
+                <template><srai>FEES</srai></template>
+        </category>		
+        <category>
+                <pattern>* AMOUNT</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+        <category>
+                <pattern>AMOUNT *</pattern>
+                <template><srai>FEES</srai></template>
+        </category>
+
+		
+		
+		<category>
+				<pattern>REFUND</pattern>
+				<that>ARE YOU TALKING ABOUT ADMISSION FEE REFUND OR ADMISSION FEE SUBMISSION</that>
+				<template>Please re-enter your query.<think><set name="topic">REFUND</set></think></template>
+		</category>   
+		<category>
+				<pattern>* FEE REFUND *</pattern>
+				<template><srai>REFUND</srai></template>
+		</category>      
+		<category>
+				<pattern>FEE REFUND *</pattern>
+				<template><srai>REFUND</srai></template>
+		</category>      
+		<category>
+				<pattern>* FEE REFUND</pattern>
+				<template><srai>REFUND</srai></template>
+		</category>      
+		<category>
+				<pattern>SUBMISSION</pattern>
+				<that>ARE YOU TALKING ABOUT ADMISSION FEE REFUND OR ADMISSION FEE SUBMISSION</that>
+				<template>Please re-enter your query.<think><set name="topic">SUBMISSION</set></think></template>
+		</category>      
+		<category>
+				<pattern>* FEE SUBMISSION *</pattern>
+				<template><srai>SUBMISSION</srai></template>
+		</category>      
+		<category>
+				<pattern>FEE SUBMISSION *</pattern>
+				<template><srai>SUBMISSION</srai></template>
+		</category>      
+		<category>
+				<pattern>* FEE SUBMISSION</pattern>
+				<template><srai>SUBMISSION</srai></template>
+		</category>      
+
+		<topic name = "SUBMISSION">
+		<category>
+				<pattern> FEES </pattern>
+				<template>You need to pay full one semester fee at the time of Admission. Details can be found at http://sscbs.du.ac.in/Admission2016/FEE-STRUCTURE.pdf<think><set name="topic"></set></think></template>
+		</category>  
+		<category>
+				<pattern> FEES * </pattern>
+				<template><srai>fees</srai></template>
+		</category>  
+		<category>
+				<pattern> * FEES </pattern>
+				<template><srai>fees</srai></template>
+		</category>      	  
+		<category>
+				<pattern> * FEES * </pattern>
+				<template><srai>fees</srai></template>
+		</category>     
+		<category>
+				<pattern> FEE * </pattern>
+				<template><srai>fees</srai></template>
+		</category>  
+		<category>
+				<pattern> * FEE </pattern>
+				<template><srai>fees</srai></template>
+		</category>      	  	  
+		<category>
+				<pattern> * FEE * </pattern>
+				<template><srai>fees</srai></template>
+		</category>      
+		</topic>   
+		<topic name = "REFUND">
+		<category>
+				<pattern> FEES </pattern>
+				<template>Please write an application to the college authorities, requesting to return your documents and certificates, and your fees would be refunded in the respective bank account through which you paid it.<think><set name="topic"></set></think></template>
+		</category>  
+		<category>
+				<pattern> FEES * </pattern>
+				<template><srai>fees</srai></template>
+		</category>  
+		<category>
+				<pattern> * FEES </pattern>
+				<template><srai>fees</srai></template>
+		</category>      	  
+		<category>
+				<pattern> * FEES * </pattern>
+				<template><srai>fees</srai></template>
+		</category>
+		<category>
+				<pattern> FEE * </pattern>
+				<template><srai>fees</srai></template>
+		</category>  
+		<category>
+				<pattern> * FEE </pattern>
+				<template><srai>fees</srai></template>
+		</category>      	  
+		<category>
+				<pattern> * FEE * </pattern>
+				<template><srai>fees</srai></template>
+		</category>
+   </topic>   
+
+
+</aiml>

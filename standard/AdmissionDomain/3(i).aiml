@@ -1,0 +1,1158 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+
+         
+		
+		<category>
+                <pattern>IS THERE ANY AGE RESTRICTION FOR DIFFERENT COURSES</pattern>
+                <template>As such there are no restrictions of age for different courses but for more specific details visit du.ac.in</template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY AGE LIMIT FOR DIFFERENT COURSES</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>IS THERE ANY AGE LIMIT FOR ANY COURSES</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>ANY AGE RESTRICTION FOR *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>ANY AGE RESTRICTIONS FOR *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE RESTRICTION</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE RESTRICTIONS</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* AGE RESTRICTION *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* AGE RESTRICTIONS *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE RESTRICTION *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE RESTRICTIONS *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* AGE RESTRICTION</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* AGE RESTRICTIONS</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>ANY AGE LIMIT FOR *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>AGE LIMIT</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE LIMITS</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* AGE LIMIT *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* AGE LIMITS *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE LIMIT *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>AGE LIMITS *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* AGE LIMIT</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* AGE LIMITS</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>TELL ME ABOUT AGE RESTRICTIONS FOR DIFFERENT COURSES</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME ABOUT AGE LIMITS FOR DIFFERENT COURSES</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>ANY AGE RESTRICTIONS</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>ANY AGE LIMITS</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE AGE LIMIT FOR *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT ARE THE AGE RESTRICTIONS FOR *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE AGE RESTRICTION FOR *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE AGE LIMIT FOR GETTING ENROLLED IN * COURSE</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>        
+
+        <category>
+                <pattern>WHAT IS THE AGE RESTRICTION FOR GETTING ENROLLED IN * COURSE</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT ARE THE AGE RESTRICTIONS FOR GETTING ENROLLED IN * COURSE</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE AGE LIMIT FOR TAKING ADMISSION IN * COURSE</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE AGE LIMIT FOR TAKING ADMISSION IN *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>* RESTRICTION OF AGE </pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>* RESTRICTION OF AGE *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+        
+        <category>
+                <pattern>RESTRICTION OF AGE *</pattern>
+                <template><srai>Is there any age restriction for different courses</srai></template>
+        </category>
+
+
+
+				
+				
+				
+			
+        <category>
+                <pattern>WHAT IS THE SEAT DISTRIBUTION FOR DIFFERENT COURSES</pattern>
+                <template>To know seat distribution for different courses please visit the following link:- http://sscbs.du.ac.in/files/admission/seat.pdf</template>
+        </category>
+        
+		<category>
+                <pattern>DISTRIBUTION OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+
+        <category>
+                <pattern>* DISTRIBUTION OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		
+        <category>
+                <pattern>DISTRIBUTION OF SEATS *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* DISTRIBUTION OF SEATS *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>TELL ME ABOUT THE DISTRIBUTION OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE DISTRIBUTION OF SEATS FOR * COURSE</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE SEAT DISTRIBUTION FOR * COURSE</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>SEAT DISTRIBUTION</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>* SEAT DISTRIBUTION</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>SEAT DISTRIBUTION *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* SEAT DISTRIBUTION *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+        
+		<category>
+                <pattern>IS SEAT AVAILABLE FOR *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		
+        <category>
+                <pattern>* SEAT AVAILABLE </pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern> SEAT AVAILABLE *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* SEAT AVAILABLE *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>HOW MANY SEATS ARE AVAILABLE FOR *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>SEAT AVAILABILITY</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>* SEAT AVAILABILITY</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>SEAT AVAILABILITY *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+        
+		<category>
+                <pattern>* SEAT AVAILABILITY *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>NUMBER OF SEATS AVAILABLE FOR *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>* NUMBER OF SEATS AVAILABLE FOR *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>NUMBER OF SEATS IN * COURSE</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		
+        <category>
+                <pattern>NUMBER OF SEATS IN *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+
+        <category>
+                <pattern>* NUMBER OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+        <category>
+                <pattern>NUMBER OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>* NUMBER OF SEATS *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+		<category>
+                <pattern>DISTRIBUTION OF SEATS *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>DISTRIBUTION OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* DISTRIBUTION OF SEATS</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+		<category>
+                <pattern>* DISTRIBUTION OF SEATS *</pattern>
+                <template><srai>What is the seat distribution for different courses</srai></template>
+        </category>
+
+
+
+
+
+
+
+
+        <category>
+                <pattern>HOW CAN I GET MY ADMISSION CANCELLED</pattern>
+                <template>Please write an application to the college authorities, requesting to return your documents and certificates, and your fees would be refunded in the respective bank account through which you paid it.</template>
+        </category>
+
+        <category>
+                <pattern>IS IT POSSIBLE TO GET THE FEES REFUNDED AFTER I HAVE TAKEN ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME IF I CAN GET MY ADMISSION CANCELLED</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+		<category>
+                <pattern>ADMISSION CANCELLED</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* ADMISSION CANCELLED</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>ADMISSION CANCELLED *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* ADMISSION CANCELLED *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>ADMISSION CANCELLATION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* ADMISSION CANCELLATION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>ADMISSION CANCELLATION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* ADMISSION CANCELLATION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+        <category>
+                <pattern>TELL ME HOW CAN I GET MY ADMISSION CANCELLED</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>CANCELLING THE ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* CANCELLING THE ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>CANCELLING THE ADMISSION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* CANCELLING THE ADMISSION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>CANCEL ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+        
+        <category>
+                <pattern>ADMISSION CANCEL</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+		<category>
+                <pattern>* CANCEL ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>CANCEL ADMISSION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* CANCEL ADMISSION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>HOW WOULD I GET MY FEES AFTER CANCELLATION OF MY ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>GET MY FEES BACK</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* GET MY FEES BACK</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>GET MY FEES BACK *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* GET MY FEES BACK *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>FEE REFUND</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* FEE REFUND</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>FEE REFUND *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>* FEE REFUND *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT STEPS SHOULD I TAKE TO STEP BACK FROM ADMISSION PROCEDURE</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+        
+		<category>
+                <pattern>STEP BACK FROM ADMISSION PROCEDURE</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+    
+		<category>
+                <pattern>* STEP BACK FROM ADMISSION PROCEDURE</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		    
+		<category>
+                <pattern>STEP BACK FROM ADMISSION PROCEDURE *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		    
+		<category>
+                <pattern>* STEP BACK FROM ADMISSION PROCEDURE *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+        <category>
+                <pattern>WHAT SHOULD I DO TO CANCEL MY ADMISSION PROCEDURE</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+		<category>
+                <pattern>CANCEL MY ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* CANCEL MY ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>CANCEL MY ADMISSION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+		<category>
+                <pattern>* CANCEL MY ADMISSION *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+		
+        <category>
+                <pattern>WHAT IS THE PROCEDURE FOR ADMISSION CANCELLATION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>CAN I CANCEL MY ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY ADMISSION CANCELLATION POLICY</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+        
+		<category>
+                <pattern>ADMISSION CANCELLATION POLICY</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+		<category>
+                <pattern>* ADMISSION CANCELLATION POLICY</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+		<category>
+                <pattern>ADMISSION CANCELLATION POLICY *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+		<category>
+                <pattern>* ADMISSION CANCELLATION POLICY *</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+
+        <category>
+                <pattern>HOW DO I CANCEL MY ADMISSION</pattern>
+                <template><srai>How can I get my admission cancelled</srai></template>
+        </category>
+        
+
+
+
+
+		
+		
+		
+        <category>
+                <pattern>DEADLINE FOR ADMISSION</pattern>
+                <template>For Deadline related queries please refer to the cut off of corresponding course.</template>
+        </category>
+        
+		<category>
+                <pattern>* DEADLINE FOR ADMISSION</pattern>
+                <template>For Deadline related queries please refer to the cut off of corresponding course.</template>
+        </category>
+        
+		<category>
+                <pattern>DEADLINE FOR ADMISSION *</pattern>
+                <template>For Deadline related queries please refer to the cut off of corresponding course.</template>
+        </category>
+
+        <category>
+                <pattern>* DEADLINE FOR ADMISSION *</pattern>
+                <template>For Deadline related queries please refer to the cut off of corresponding course.</template>
+        </category>
+
+        <category>
+                <pattern>DEADLINE FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME WHAT IS THE LAST DATE TO APPLY FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+  
+        <category>
+                <pattern>LAST DATE TO APPLY</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* LAST DATE TO APPLY</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>LAST DATE TO APPLY *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* LAST DATE TO APPLY *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME WHICH IS THE LAST DATE TO APPLY FOR ADMISSION IN THE COURSE OF *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE LAST DATE TO APPLY FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE DEADLINE FOR *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* DEADLINE FOR *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>DEADLINE FOR *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE DEADLINE FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY DEADLINE FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY LAST DATE FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>LAST DATE FOR ADMISSION</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* LAST DATE FOR ADMISSION</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+		
+        <category>
+                <pattern>LAST DATE FOR ADMISSION *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* LAST DATE FOR ADMISSION *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+		
+        <category>
+                <pattern>IS THERE ANY LAST DATE TO APPLY FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY DEADLINE TO APPLY FOR ADMISSION IN *</pattern>
+                <template><srai>Deadline for admission</srai></template>
+        </category>
+
+
+
+
+
+
+
+
+
+
+
+
+        <category>
+                <pattern>DOCUMENTS FOR ADMISSION</pattern>
+                <template>
+                        <random>
+                                <li>The documents required for admission procedure are- 2 passport sized photographs, 10th class Mark sheet, 12th class Mark sheet, an ID proof(Aadhar Card, Electoral Photo Identity Card (EPIC), Permanent Account Number (PAN) Card, Passport), Character certificate and Migration certificate.</li>
+                                <li>You require the following documents for the admission procedure- 2 passport sized photographs, 10th class Mark sheet, 12th class Mark sheet, an ID proof(Aadhar Card, Electoral Photo Identity Card (EPIC), Permanent Account Number (PAN) Card, Passport), Character certificate and Migration certificate.</li>
+                        </random>
+                </template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE DOCUMENT REQUIRING FOR ADMISSION</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>DOCUMENTS REQUIRING FOR ADMISSION</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+		<category>
+                <pattern>DOCUMENT REQUIRED</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+
+		<category>
+                <pattern>* DOCUMENT REQUIRED</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+		<category>
+                <pattern>DOCUMENT REQUIRED *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+		<category>
+                <pattern>* DOCUMENT REQUIRED *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT ARE THE DOCUMENTS REQUIRED FOR THE ADMISSION PROCEDURE</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME WHAT ARE THE DOCUMENTS REQUIRED FOR ADMISSION PROCEDURE</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WILL THE PHOTOCOPY OF AN ID PROOF BE SUFFICIENT</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* PHOTOCOPY OF AN ID PROOF *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ID PROOF PHOTOCOPY *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WOULD AN AADHAAR CARD BE FINE</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* AADHAAR CARD *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* PAN CARD *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* PASSPORT *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ID PROOF *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* DOCUMENTS *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>DOCUMENTS *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* DOCUMENTS</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* DOCUMENT *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>* DOCUMENT</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>DOCUMENT *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT DOCUMENTS ARE REQUIRED FOR TAKING ADMISSION IN *</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT DOCUMENT DO I NEED FOR APPLYING IN THIS COLLEGE</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT DOCUMENTS ARE TO BE SUBMITTED DURING ADMISSION PROCESS</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT DOCUMENTS WILL I NEED DURING ADMISSION PROCESS</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHICH DOCUMENTS ARE REQUIRED DURING ADMISSION PROCESS</pattern>
+                <template><srai>Documents for admission</srai></template>
+        </category>
+
+
+
+
+
+
+
+
+
+
+        <category>
+                <pattern>MINIMUM QUALIFICATIONS</pattern>
+                <template>The Minimum Eligibility is that a student should be 12th pass out. Further Eligibility for BBS, BMS, BFIA is based on DU JAT examination and for admission to B.Sc., check the requirements by visiting the given links- </template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE MINIMUM QUALIFICATIONS FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* MINIMUM QUALIFICATIONS *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>MINIMUM QUALIFICATION</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* MINIMUM QUALIFICATION *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* MINIMUM QUALIFICATION</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>MINIMUM QUALIFICATION *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>MINIMUM QUALIFICATIONS *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* MINIMUM QUALIFICATIONS</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>MINIMUM QUALIFICATIONS FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME IF I AM ELIGIBLE FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME WHAT IS ELIGIBILITY CRITERIA FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBILITY *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBILITY</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>ELIGIBILITY *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBILE *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBILE</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>ELIGIBILE *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+		
+        <category>
+                <pattern>* ELIGIBILITY CRITERIA *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>ELIGIBILITY CRITERIA *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBILITY CRITERIA</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE ELIGIBILITY CRITERIA REQUIRED FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS MY ELIGIBILITY CRITERIA REQUIRED FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>HOW CAN I GET ADMISSION TO *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>TELL ME WHAT IS ELIGIBILITY CRITERIA FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>CAN I GET ADMISSION IN *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS MY ELIGIBILITY CRITERIA FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+
+        <category>
+                <pattern>ELIGIBLE</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBLE *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>* ELIGIBLE</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>ELIGIBLE *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>CAN I GET ADMISSION FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>AM I ELIGIBLE FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE ELIGIBILITY CRITERIA FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>HOW CAN I GET ADMISSION IN *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY ELIGIBILITY CRITERIA FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY MINIMUM QUALIFICATIONS REQUIRED FOR *</pattern>
+                <template><srai>Minimum qualifications</srai></template>
+        </category>
+        <category>
+                <pattern>WHAT AMOUNT TO BE PAID DURING THE ADMISSION PROCEDURE</pattern>
+                <template>You need to pay full one semester fee at the time of Admission. Details can be found at http://sscbs.du.ac.in/Admission2016/FEE-STRUCTURE.pdf</template>
+        </category>        
+
+        <category>
+                <pattern>WHAT FEES IS TO BE PAID DURING THE ADMISSION PROCEDURE</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>       
+        <category>
+                <pattern>MONEY TO BE PAID DURING ADMISSION PROCEDURE</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>MONEY TO BE PAID</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>* MONEY TO BE PAID *</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>* MONEY TO BE PAID</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>MONEY TO BE PAID *</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>* PAID *</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANYTHING TO BE PAID WHILE ADMISSION PROCEDURE</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>INITIAL AMOUNT TO BE SUBMITTED DURING ADMISSION PROCEDURE</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>INITIAL AMOUNT TO BE SUBMITTED WHILE TAKING ADMISSION</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE ADMISSION FEES FOR *</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>IS THERE ANY INITIAL AMOUNT THAT IS TO BE PAID</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+        <category>
+                <pattern>WHAT IS THE ADMISSION FEE OF *</pattern>
+                <template><srai>What amount to be paid during the admission procedure</srai></template>
+        </category>
+
+
+</aiml>
